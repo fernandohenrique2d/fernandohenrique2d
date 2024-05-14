@@ -4,13 +4,15 @@
 
 - Estou estudando no alura
 - Estou me desenvolvendo na linguagem Javascript
--Utilizo espaço para minha organizaçã0 e compartilhamento dos
+-Utilizo espaço para minha organizaçã0 e compartilhamento dos meus projetos desenvolvidos
 
+### você entrar em contato comigo:c
 
+0001098370545sp@al.educacao.sp.gov.br
 
+ferbrau014@icloud.com
 
-
-
+![](https://media.tenor.com/dqH6ZBgOvMUAAAAi/dog-dance.gif)
 
 
 
